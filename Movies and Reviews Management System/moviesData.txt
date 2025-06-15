@@ -1,0 +1,18 @@
+format:m_id,movie_name,Genre,Lead Studio,Year
+4,When in Rome,Comedy,Disney,2010
+15,The Twilight Saga: New Moon,Drama,Summit,2009
+12,Twilight: Breaking Dawn,Romance,Independent,2011
+11,Alice in Wonderland,Adventure,Disney,2010
+6,Water For Elephants,Drama,20th Century Fox,2011
+1,West Side Story,Drama,Disney,2021
+3,Last Summer,Romance,Netflix,2019
+7,WALL-E,Animation,Disney,2008
+9,Murder Mystery,Romance,Disney,2019
+10,Valentine's Day,Comedy,Warner Bros.,2010
+13,Twilight,Romance,Summit,2008
+16,The Time Traveler's Wife,Drama,Paramount,2009
+5,What Happens in Vegas,Comedy,Fox,2008
+17,The Proposal,Comedy,Disney,2009
+14,Last Christmas,Comedy,Universal,2019
+2,Cinderella,Romance,Sony Pictures,2021
+8,Waitress,Romance,Independent,2007

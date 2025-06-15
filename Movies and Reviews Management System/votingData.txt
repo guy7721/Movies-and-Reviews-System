@@ -1,0 +1,20 @@
+m_id:vote:coutry:comment //- means an empty comment
+8:3:France:Boring movie
+9:8:UK:Nice movie for the family
+2:9:USA:-
+11:10:Germany:This movie really makes you think about life
+15:7:Peru:Nice film
+4:5:UK:Waste of time
+19:8:Peru:Love this movie ...
+5:7:USA:Nice comedy
+18:7:USA:-
+6:6:Germany:Good actors but bad movie
+3:10:Spain:Brilliant movie
+10:9:Spain:-
+17:9:USA:The best actors of all time
+7:8:France:-
+12:8:USA:Very enjoyable romantic movie
+14:3:France:the worst film ever made
+1:8:UK:Very enjoyable
+13:10:UK:Unforgettable
+16:10:Germany:Unforgettable
