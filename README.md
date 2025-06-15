@@ -1,4 +1,5 @@
 # Movies-and-Reviews-System
-A system to manage movies and viewers' reviews
+A system to manage movies and viewers' reviews.
 
-For more information, please look at the "Project_Summary" PDF file.
+() For an explanation of the project's functionality, please look at the "Project_Functionality" PDF file.
+() For what the result of the project should look like, please look at the "Project_Summary" PDF file.
